@@ -1,6 +1,6 @@
 {
   "name": "rupee_format",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Indian rupee format",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/angadisharan/node_rupee_format/issues"
   },
-  "homepage": "https://github.com/angadisharan/node_rupee_format#readme"
+  "homepage": "https://github.com/angadisharan/node_rupee_format#readme",
+  "dependencies": {
+    "s_node_js_utils": "0.0.2"
+  }
 }
