@@ -1,0 +1,24 @@
+{
+  "name": "rupee_format",
+  "version": "0.0.1",
+  "description": "Indian rupee format",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angadisharan/node_rupee_format.git"
+  },
+  "keywords": [
+    "Rupee",
+    "Rupee_Format",
+    "Format"
+  ],
+  "author": "Sharanu Angadi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/angadisharan/node_rupee_format/issues"
+  },
+  "homepage": "https://github.com/angadisharan/node_rupee_format#readme"
+}
